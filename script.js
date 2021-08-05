@@ -330,7 +330,7 @@ function setChapter(c) {
 }
 
 function setFate() {
-  if(time < 7) {
+  if(time < 8) {
     goToChapter('pilote');
   } else {
     goToChapter('tropLent');
